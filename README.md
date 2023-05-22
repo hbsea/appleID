@@ -7,3 +7,6 @@
 
 
 # [Shadowrocket小火箭账号](iosid.cn)
+
+
+# [Quantumult X 账号](iosid.cn)
