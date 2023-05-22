@@ -1,4 +1,4 @@
-# appleID
+# appleID 苹果ID
 
 # [苹果美区账号 Apple ID 账号；](iosid.cn)
 
